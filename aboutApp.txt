@@ -1,0 +1,2 @@
+Using Clerk For Authentication
+Using Shadcn-UI For Components
